@@ -62,6 +62,7 @@ top500apk/
 │   ├── app_urls.txt   # 存储应用URL列表
 │   └── download_history.json # 下载历史记录
 ├── app_details.csv    # 应用详细信息数据
+├── requirements.txt   # 依赖包
 └── README.md
 ```
 
