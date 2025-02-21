@@ -1,0 +1,12 @@
+# Web请求和解析
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# 浏览器自动化
+selenium==4.15.2
+
+# 数据处理
+pandas==2.1.2
+
+# 进度显示
+tqdm==4.66.1 

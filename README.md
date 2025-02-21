@@ -1,11 +1,5 @@
 # 应用宝APK批量下载与分析工具
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -13,22 +7,13 @@
   <h3 align="center">应用宝APK批量下载与分析工具</h3>
   <p align="center">
     一个用于批量抓取和下载应用宝前500个热门应用的Python工具集
-    <br />
-    <a href="https://github.com/[username]/top500apk"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/[username]/top500apk/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/[username]/top500apk/issues">提出新特性</a>
   </p>
 </p>
 
 ## 目录
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
 - [功能特点](#功能特点)
+- [安装步骤](#安装步骤)
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
 - [如何贡献](#如何贡献)
