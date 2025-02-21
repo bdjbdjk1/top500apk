@@ -10,10 +10,6 @@
     <br />
     <a href="https://github.com/[username]/top500apk"><strong>探索本项目的文档 »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/[username]/top500apk/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/[username]/top500apk/issues">提出新特性</a>
   </p>
 </p>
 
