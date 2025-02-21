@@ -7,9 +7,6 @@
   <h3 align="center">应用宝APK批量下载与分析工具</h3>
   <p align="center">
     一个用于批量抓取和下载应用宝前500个热门应用的Python工具集
-    <br />
-    <a href="https://github.com/[username]/top500apk"><strong>探索本项目的文档 »</strong></a>
-    <br />
   </p>
 </p>
 
